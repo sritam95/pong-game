@@ -32,7 +32,8 @@ B	  ↑ (Up Arrow)	↓ (Down Arrow)
 
 
 
-![Screenshot 2025-05-12 181736](https://github.com/user-attachments/assets/07df1ada-35b4-44ed-98b9-7880be7ec487)
+![Screenshot 2025-05-12 181736](https://github.com/user-attachments/assets/444734ed-8e3b-40e6-bf05-ba3ddeffbb48)
+
 
 
 Enjoy the game!
