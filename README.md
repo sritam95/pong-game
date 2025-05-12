@@ -27,7 +27,12 @@ python main.py
 🎮 Controls
 Player	Move Up	Move Down
 A	        W	      S
-B	  ↑ (Up Arrow)	↓ (Down Arrow)![Screenshot 2025-05-12 181736](https://github.com/user-attachments/assets/07df1ada-35b4-44ed-98b9-7880be7ec487)
+B	  ↑ (Up Arrow)	↓ (Down Arrow)
+
+
+
+
+![Screenshot 2025-05-12 181736](https://github.com/user-attachments/assets/07df1ada-35b4-44ed-98b9-7880be7ec487)
 
 
 Enjoy the game!
