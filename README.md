@@ -25,8 +25,11 @@ Run the script:
 python main.py
 
 🎮 Controls
+
 Player	Move Up	Move Down
+
 A	        W	      S
+
 B	  ↑ (Up Arrow)	↓ (Down Arrow)
 
 
